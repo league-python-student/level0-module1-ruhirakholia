@@ -12,6 +12,7 @@ if __name__ == '__main__':
     window.withdraw()
     
     # Ask the user for the radius in pixels and store it in a variable
+    messagebox.askquestion("the radius?")
     # simpledialog.askinteger()
     
     # Make a new turtle
